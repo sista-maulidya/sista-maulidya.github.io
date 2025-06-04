@@ -20,7 +20,7 @@ Content-Location: https://web.dariku.my.id/view/?id=DK106
 
     <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
     <link rel="stylesheet" href="https://web.dariku.my.id/asset/style.css">
-    <title>Preview Web Ucapan</title>
+    <title>Special For You</title>
     
 </head>
 
@@ -3729,7 +3729,12 @@ Content-Location: https://web.dariku.my.id/theme/DK106/
       <span>Klik love nya</span>
     </div>
     
-    
+    <script>
+      ucapan = 'Hai sayangku 
+      Nggak bisa bikin kata² nya intinya kamu tu lucu , sabar, baik ,
+dan sedikit tengil😁, pokoknya I lOVE YOU SAYANG 😘, Aku juga bangga banget punya kamu , 
+dan aku juga sangat terharu pas kamu ngasih kado ke aku😭, Jangan pernah nyerah ya buat ngadepin aku, dan aku juga makasih banget karena kamu selalu sabar buat ngadepin aku';
+      music = 'Musik.mp3';
     
     <div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div><div></div></div><div>
     <div class="night"></div>
